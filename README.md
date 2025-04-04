@@ -1,18 +1,18 @@
-#Personal Learning Collection
+Personal Learning Collection
 author: Xiao Cheng
 QQ mailbox : 3390294595@qq.com
 Personal study notes during their time at university
 
-#Recommended for learning programming
-#Front
+Recommended for learning programming
+Front
 
-#back end
+back end
 
 
-#Linux learning recommendation
+Linux learning recommendation
 
-#Basic commands
+Basic commands
 
-#Shell scripts
+Shell scripts
 
-#Recommended software
+Recommended software
