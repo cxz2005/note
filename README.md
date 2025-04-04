@@ -1,18 +1,15 @@
-Personal Learning Collection
-author: Xiao Cheng
-QQ mailbox : 3390294595@qq.com
-Personal study notes during their time at university
+学习推荐集合
+作者:小诚
+联系方式:3390294595@qq.com
+大学笔记：
+linux笔记
 
-Recommended for learning programming
-Front
+前端笔记
 
-back end
+后端笔记
 
+网络笔记
 
-Linux learning recommendation
+推荐软件
 
-Basic commands
-
-Shell scripts
-
-Recommended software
+写过的脚本地址
